@@ -22,7 +22,7 @@ in use es6
       let delay = 5000;
       // Stop for 5 seconds
       if(this.DoubleClickBlocking.isBlocking(delay) === true){
-					return ;
+	      return ;
       }
       // 1 call for 5 seconds
       ...
